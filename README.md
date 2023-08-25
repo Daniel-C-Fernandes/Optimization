@@ -137,23 +137,23 @@ Inicialmente vamos verificar a versão instalada:
 versioninfo()
 ```
 
-Apenas para termos certeza que estamos com a última versão instalada em nosso computador, vamos atualizá-la, para isso precisaremos instalar o comando:
+Apenas para termos certeza que estamos com a última versão instalada em nosso computador, vamos atualizá-la. Para isso, utilize o comando a seguir:
 
 ```
-Pkg.add("UpdateJulia")
+Pkg.update()
 ```
-
-Agora vamos proceder à atualização:
-
-```
-using UpdateJulia
-update_julia()
-```
-
 Verifique a atualização:
 
 ```
 versioninfo()
+```
+
+Alternativamente, podemos utilizar o pacote UpdateJulia:
+
+```
+Pkg.add("UpdateJulia")
+using UpdateJulia
+update_julia()
 ```
 
 ### Pacotes de Otimização

@@ -210,7 +210,7 @@ Crie um novo notebook, onde modelaremos o nosso primeiro modelo de otimização 
 
 
 
-$max\;\;x_1+2x_2$
+max $x_1+2x_2$
 
 $5x_1+6x_2\leq 30$
 

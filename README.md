@@ -255,10 +255,9 @@ print(model)
 # Relatório
 solution_summary(model; verbose = true)
 
-
 # Valor dos variáveis ótimas
-value(x_1)
-value(x_2)
+println(value(x_1))
+println(value(x_2))
 
 # Valor ótimo
 objective_value(model)

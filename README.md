@@ -201,6 +201,7 @@ Pkg.add("Homebrew")
 Pkg.build("Homebrew")
 Pkg.build("IJulia")
 ```
+## Teste de uso para otimização
 
 Vamos agora acessar o *Jupyter Notebook* e otimizar nosso primeiro modelo. Verifique que agora há a opção *julia* para criação de um novo notebook:
 

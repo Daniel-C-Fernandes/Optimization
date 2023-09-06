@@ -120,7 +120,7 @@ Pressione enter para salvar a licença no diretório indicado.
 
 ![7cce466c-4f0f-4e54-9820-b217616e63fe](https://raw.githubusercontent.com/Daniel-C-Fernandes/Tutorial-Jupyter-Notebook-Julia-Gurobi/img/7cce466c-4f0f-4e54-9820-b217616e63fe.png)
 
-## 4. Configurando tudo
+## 4. Configurando tudo - Dentro do ambiente julia
 
 Agora integraremos tudo.
 
